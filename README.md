@@ -1,13 +1,13 @@
-0. isupper
-1. isdigit
-2. Collaboration is multiplication
-3. The numbers speak for themselves
-4. I believe in numbers and signs
-5. Numbers constitute the only universal language
-6. The shortest distance between two points is a straight line
-7. I feel like I am diagonally parked in a parallel universe
-8. You are so much sunshine in every square inch
-9. Fizz-Buzz
-10. Triangles
-11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic
-12. Numbers have life; they're not just symbols on paper
+0. strcat
+1. strncat
+2. strncpy
+3. strcmp
+4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy
+5. Always look up
+6. Expect the best. Prepare for the worst. Capitalize on what comes
+7. Mozart composed his music not for the elite, but for everybody
+8. rot13
+9. Numbers have life; they're not just symbols on paper
+10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
+11. It is the addition of strangeness to beauty that constitutes the romantic character in art
+12. Noise is a buffer, more effective than cubicles or booth walls
