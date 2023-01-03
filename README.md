@@ -1,13 +1,10 @@
-0. strcat
-1. strncat
-2. strncpy
-3. strcmp
-4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy
-5. Always look up
-6. Expect the best. Prepare for the worst. Capitalize on what comes
-7. Mozart composed his music not for the elite, but for everybody
-8. rot13
-9. Numbers have life; they're not just symbols on paper
-10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
-11. It is the addition of strangeness to beauty that constitutes the romantic character in art
-12. Noise is a buffer, more effective than cubicles or booth walls
+0. memset
+1. memcpy
+2. strchr
+3. strspn
+4. strpbrk
+5. strstr
+6. Chess is mental torture
+7. The line of life is a ragged diagonal between duty and desire
+8. Double pointer, double fun
+9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
