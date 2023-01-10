@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 
 /**
  *_abs - computes the absolute value of an integer
@@ -7,7 +8,7 @@
  * Return: returns an unsigneed int value to calling function
  */
 
-int _abs(int)
+int _abs(int n)
 {
 	if (n > 0)
 	{
