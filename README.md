@@ -1,6 +1,8 @@
-0. It ain't what they call you, it's what you answer to
-1. Silence is argument carried out by other means
-2. The best argument against democracy is a five-minute conversation with the average voter
-3. Neither irony nor sarcasm is argument
-4. To infinity and beyond
-5. Minimal Number of Coins for Change
+0. Float like a butterfly, sting like a bee
+1. The woman who has no imagination has no wings
+2. He who is not courageous enough to take risks will accomplish nothing in life
+3. If you even dream of beating me you'd better wake up and apologize
+4. It's not bragging if you can back it up
+5. It isn't the mountains ahead to climb that wear you out; it's the pebble in
+your shoe
+6. I will show you how great I am
